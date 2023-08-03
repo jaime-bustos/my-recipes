@@ -1,0 +1,1 @@
+This is my first website where I try to make a website with some recipes. I am here to practice my HTML that I have learned, and will continue to build on it as I learn more CSS and JavaScript. Through this project, I am practicing using Git and GitHub as well.
